@@ -18,6 +18,7 @@ Here are some of the things I'm working on:
 [![Linkedin: Amarjit](https://img.shields.io/badge/-Amarjit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amarjit-yanglem/)](https://www.linkedin.com/in/amarjit-yanglem/)
 [![GitHub Amarjit](https://img.shields.io/github/followers/Aamjit?label=follow&style=social)](https://github.com/Aamjit)
 [![Badge: Message](https://img.shields.io/badge/amarjit--says-%22Hello%20World%22-brightgreen)]
+[![](/teamcity/build/:verbosity/:buildId?server=https%3A%2F%2Fteamcity.jetbrains.com)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aamjit&show_icons=true)
 
