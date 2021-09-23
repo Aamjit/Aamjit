@@ -19,6 +19,7 @@ Here are some of the things I'm working on:
 [![GitHub Amarjit](https://img.shields.io/github/followers/Aamjit?label=follow&style=social)](https://github.com/Aamjit)
 [![Badge: Message](https://img.shields.io/badge/amarjit--says-%22Hello%20World%22-brightgreen)]
 [![Badge: lang](https://img.shields.io/github/languages/count/Aamjit/Go-Mall?color=brightgreen&style=plastic)]
+[![Badge: fav lang](https://img.shields.io/github/languages/top/Aamjit/Go-Mall?color=success&style=plastic)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aamjit&show_icons=true)
 
