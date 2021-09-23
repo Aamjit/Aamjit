@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 
-**Aamjit/Aamjit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I go by the name _**Amarjit Yanglem**_  ✨ _speaking_ ✨
 
-Here are some ideas to get you started:
+
+Here are some ofthe things I'm working on:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
