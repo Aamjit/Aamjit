@@ -15,6 +15,9 @@ Here are some of the things I'm working on:
 - 📫 E-Mail: amarjityanglem563@gmail.com...
 - 🌐 Portfolio: [Link](https://aamjit.github.io/portfolio.amarjit.yanglem/)
 
+[![Linkedin: Amarjit](https://img.shields.io/badge/-Amarjit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amarjit-yanglem/)](https://www.linkedin.com/in/amarjit-yanglem/)
+[![GitHub Amarjit](https://img.shields.io/github/followers/Aamjit?label=follow&style=social)](https://github.com/Aamjit)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aamjit&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamjit)](https://github.com/aamjit)
@@ -25,6 +28,6 @@ Here are some of the things I'm working on:
 
 ![GitHub metrics](https://metrics.lecoq.io/aamjit)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/aamjit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/amarjit-yanglem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/https://www.facebook.com/amarjit.yanglem.9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/aamjit_y/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/aamjit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/https://www.facebook.com/amarjit.yanglem.9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/aamjit_y/)
 
 ![Profile views](https://gpvc.arturio.dev/aamjit)  
