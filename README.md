@@ -21,6 +21,7 @@ Here are some of the things I'm working on:
 [![Badge: lang](https://img.shields.io/github/languages/count/Aamjit/Go-Mall?color=brightgreen&style=plastic)]
 [![Badge: fav lang](https://img.shields.io/github/languages/top/Aamjit/Go-Mall?color=success&style=plastic)]
 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aamjit&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamjit)](https://github.com/aamjit)
