@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I go by the name _**Amarjit Yanglem**_  ✨ _speaking_ ✨
+I go by the name ✨ _**Amarjit Yanglem**_ ✨
 
 
 Here are some ofthe things I'm working on:
