@@ -17,3 +17,11 @@ Here are some of the things I'm working on:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aamjit)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamjit)](https://github.com/aamjit)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aamjit)
+
+![GitHub metrics](https://metrics.lecoq.io/aamjit)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/aamjit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/amarjit-yanglem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/https://www.facebook.com/amarjit.yanglem.9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/aamjit_y/)
+
+![Profile views](https://gpvc.arturio.dev/aamjit)  
