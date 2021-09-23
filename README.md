@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+##### Here are some things that you can know about me
 
-I go by the name ✨ _**Amarjit Yanglem**_ ✨
+I go by the name ✨ _**Amarjit Yanglem**_ ✨, I'm currently in my 4<sup>th</sup> year of my Bachelor of Engineering. I've alwyas been that one person who people find it  hard to read. Building a flexible environment where there is no barrier for religions, race, regionality,etc. ha been a long term goal for me.
 
+<hr>
 
 Here are some of the things I'm working on:
 
