@@ -22,6 +22,8 @@ Here are some of the things I'm working on:
 [![Badge: fav lang](https://img.shields.io/github/languages/top/Aamjit/Go-Mall?color=success&style=plastic)]
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=aamjit)](https://github.com/aamjit?tab=repositories)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aamjit&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamjit)](https://github.com/aamjit)
