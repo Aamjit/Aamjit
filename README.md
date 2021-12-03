@@ -6,6 +6,8 @@ I go by the name ✨ _**Amarjit Yanglem**_ ✨. I'm currently in my 4<sup>th</su
 
 <hr>
 
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<h2>⚡️ A Few Quick Facts</h2>
 Here are some of the things I'm working on:
 
 - 🔭 I’m currently working on E-commerce ReactApp...
