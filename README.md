@@ -1,3 +1,5 @@
+![gif file](https://raw.githubusercontent.com/Aamjit/Aamjit/main/Amarjit.gif)
+
 ### Hi there 👋
 
 ##### Here are some things that you can know about me
