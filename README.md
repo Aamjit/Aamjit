@@ -4,7 +4,7 @@
 
 ##### Here are some things that you can know about me
 
-I go by the name ✨ _**Amarjit Yanglem**_ ✨. I'm currently in my 4<sup>th</sup> year of my Bachelor of Engineering. I've alwyas been that one person who people find it  hard to read. Building a flexible environment where there is no barrier for religions, race, regionality,etc. has been a long term goal for me. :sweat_smile::sweat_smile:
+I go by the name ✨ _**Amarjit Yanglem**_ ✨. I'm currently in my 4<sup>th</sup> year of my Bachelor of Engineering. I've alwyas been that one person who people find it  hard to read :sweat_smile::sweat_smile:. I am deeply interested in the process of development and I've been lerning new techs. I am looking forward to becoming a proficient back-end developer.
 <hr>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
