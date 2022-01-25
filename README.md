@@ -19,8 +19,12 @@ Here are some of the things I'm working on:
 - 🌐 Portfolio: [Link](https://aamjit.github.io/portfolio.amarjit.yanglem/)
 <br>
 <hr>
-<br>
+
 <div align="center">
+  
+  <div><h3>My Codewars Rank</h3></div>
+  
+![Codewars: Amarjit](https://www.codewars.com/users/Aamjit/badges/large)
   
 [![Linkedin: Amarjit](https://img.shields.io/badge/-Amarjit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amarjit-yanglem/)](https://www.linkedin.com/in/amarjit-yanglem/)
 [![GitHub Amarjit](https://img.shields.io/github/followers/Aamjit?label=follow&style=social)](https://github.com/Aamjit)
