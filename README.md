@@ -4,7 +4,8 @@
 
 ##### Here are some things that you can know about me
 
-I go by the name ✨ _**Amarjit Yanglem**_ ✨. I'm currently in my 4<sup>th</sup> year of my Bachelor of Engineering. I've alwyas been that one person who people find it  hard to read :sweat_smile::sweat_smile:. I am deeply interested in the process of development and I've been lerning new techs. I am looking forward to becoming a proficient back-end developer.
+I go by the name ✨ _**Amarjit Yanglem**_ ✨. I'm currently in my 4<sup>th</sup> year of my Bachelor of Engineering. I've alwyas been that one person who people find it  hard to read :sweat_smile::sweat_smile:. I am deeply interested in the process of development and I've been learning new techs. I am looking forward to becoming a proficient back-end developer.<br/>
+Currently I'm working as an ABAP Developer.
 <hr>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
@@ -50,7 +51,7 @@ Here are some of the things I'm working on:
   ![React](https://img.shields.io/badge/-ReactJS-616161?&logo=react)
   ![TSX](https://img.shields.io/badge/-TypeScript-eeeeee?&logo=typescript)
   ![MDB](https://img.shields.io/badge/-MongoDB-eeeeee?&logo=mongodb)
-  
+  ![ABAP](https://img.shields.io/badge/-ABAP-eeeeee?&logo=sap)
 </div>
 
 <br>
