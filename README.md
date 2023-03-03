@@ -1,3 +1,5 @@
+<head><link rel="stylesheet" href="devicon.min.css"></head>
+
 ![gif file](https://raw.githubusercontent.com/Aamjit/Aamjit/main/Amarjit.gif)
 
 ### Hi there 👋
@@ -41,16 +43,21 @@ Here are some of the things I'm working on:
   <h2>My languages and tools</h2>
   
   
-  ![C](https://img.shields.io/badge/-C-616161?&logo=C)
-  ![Java](https://img.shields.io/badge/-Java-eeeeee?&logo=Java&logoColor=007396)
-  ![HTML](https://img.shields.io/badge/-HTML-616161?&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-616161?&logo=CSS3)
-  ![JS](https://img.shields.io/badge/-JavaScript-616161?&logo=Javascript)
-  ![NodeJS](https://img.shields.io/badge/-Node.JS-eeeeee?&logo=node.js)
-  ![NPM](https://img.shields.io/badge/-NPM-616161?&logo=npm)
-  ![React](https://img.shields.io/badge/-ReactJS-616161?&logo=react)
-  ![TSX](https://img.shields.io/badge/-TypeScript-eeeeee?&logo=typescript)
-  ![MDB](https://img.shields.io/badge/-MongoDB-eeeeee?&logo=mongodb)
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" alt="" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="" width="40" height="40"/>
+<!--     <img src="" alt="" width="40" height="40"/> -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="" width="40" height="40"/>
+ 
   ![ABAP](https://img.shields.io/badge/-ABAP-eeeeee?&logo=sap)
 </div>
 
